@@ -1,0 +1,2 @@
+robot
+-DCATKIN_DEVEL_PREFIX=/home/ifmgpesquisa/robo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ifmgpesquisa/robo_ws/install -G Unix Makefiles
